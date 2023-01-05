@@ -15,6 +15,7 @@ A full-stack Android trip planner app that allows users to navigate through San 
 
 ---
 [UCSD Computer Science and Engineering Society Website](https://cses.ucsd.edu/#/) 
+  
 [Repo](https://github.com/lorraineeeee/CSES-React-Server-smoothScroll)
 
 Website for Computer Science and Engineering Society in UC San Diego using React and NodeJS.
