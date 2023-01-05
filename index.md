@@ -9,13 +9,12 @@ AWS S3 for information storage and retrieval.
 
 ---
 [San Diego Zoo App](https://github.com/CSE-110-Spring-2022/San-Diego-Zooseeker-Android-App)
+<img src="demo-app.mov">
 
 A full-stack Android trip planner app that allows users to navigate through San Diego Zoo using both real-time and mock locations.
 
 ---
-[UCSD Computer Science and Engineering Society Website](https://cses.ucsd.edu/#/)
-
-Github: https://github.com/lorraineeeee/CSES-React-Server-smoothScroll
+[UCSD Computer Science and Engineering Society Website](https://cses.ucsd.edu/#/) [Repo](https://github.com/lorraineeeee/CSES-React-Server-smoothScroll)
 
 Website for Computer Science and Engineering Society in UC San Diego using React and NodeJS.
 
