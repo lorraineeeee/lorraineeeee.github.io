@@ -1,7 +1,5 @@
 ## Portfolio
 
-### Projects 
-
 [Cardiac Atlas Project](https://capchd.ucsd.edu) 
 
 An interactive AWS web app that organizes physiologic clinical data. User interface is done with React and backend is connected to
